@@ -15,15 +15,15 @@
 "tools": {},
 "items":
 {
-	"mana potion": {"hotkey":"e", "id":268, "use":"self"},
-	"health potion": {"hotkey":"f", "id":266, "use":"self"},
-	"brown mushroom": {"hotkey":"f11", "id":3725, "use":"use"}
+	"mana potion": {"hotkey":"f1", "id":268, "use":"self"},
+	"health potion": {"hotkey":"f2", "id":266, "use":"self"},
+	"brown mushroom": {"hotkey":"f3", "id":3725, "use":"use"}
 },
 "spells":
 {
-	"utani hur": "v",
-	"exura ico": "r",
-	"exori ico": "q"
+	"utani hur": "f4",
+	"exura ico": "f5",
+	"exori ico": "f6"
 },
 "healing":
 [
